@@ -5,8 +5,6 @@ Our mission is to utilize graph databases and graph neural networks (GNN) to dev
 ## User Stories
 As a family member of a potential Alzheimer’s patient, I want an easy-to-use application that allows me to perform an initial assessment at home using cognitive tests and symptom checklists, so that I can detect early signs of Alzheimer’s and seek professional medical advice if necessary.
 
-As a research organization, I want to use the tool for clinical trial recruitment by identifying patients who match specific genetic or cognitive profiles related to Alzheimer’s.
-
 As a data scientist, I want to explore large-scale Alzheimer’s datasets using graph neural networks, allowing me to discover new relationships and predictors of Alzheimer’s progression.
 
 As a neurologist, I want a system that can quickly integrate various patient data, including MRI scans, genetic tests, and cognitive assessments, so that I can make more informed diagnoses of Alzheimer’s disease.
