@@ -10,6 +10,7 @@ As a data scientist, I want to explore large-scale Alzheimer’s datasets using 
 As a neurologist, I want a system that can quickly integrate various patient data, including MRI scans, genetic tests, and cognitive assessments, so that I can make more informed diagnoses of Alzheimer’s disease.
 
 ## Citations of Papers
-[ADiag: Graph Neural Network Based Diagnosis of Alzheimer’s Disease](https://ar5iv.labs.arxiv.org/html/2101.02870)
+[ADiag: Graph Neural Network Based Diagnosis of Alzheimer’s Disease](https://ar5iv.labs.arxiv.org/html/2101.02870)  
 [A comparative study of GNN and MLP based machine learning for the
-diagnosis of Alzheimer’s Disease involving data synthesis](https://www.sciencedirect.com/science/article/pii/S0893608023006020?via%3Dihub)
+diagnosis of Alzheimer’s Disease involving data synthesis](https://www.sciencedirect.com/science/article/pii/S0893608023006020?via%3Dihub)  
+New Perspectives of Alzheimer Disease Diagnosis – the Most Popular and Future Methods
