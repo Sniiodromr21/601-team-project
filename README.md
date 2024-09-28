@@ -11,3 +11,5 @@ As a neurologist, I want a system that can quickly integrate various patient dat
 
 ## Citations of Papers
 [ADiag: Graph Neural Network Based Diagnosis of Alzheimer’s Disease](https://ar5iv.labs.arxiv.org/html/2101.02870)
+[A comparative study of GNN and MLP based machine learning for the
+diagnosis of Alzheimer’s Disease involving data synthesis](https://www.sciencedirect.com/science/article/pii/S0893608023006020?via%3Dihub)
