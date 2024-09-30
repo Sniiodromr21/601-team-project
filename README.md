@@ -37,12 +37,12 @@ New Perspectives of Alzheimer Disease Diagnosis – the Most Popular and Future 
 
  In this project we use database systems with the help of AI in imaging, hence our main focus is to learn a level of expert knowledge in how different imaging techniques can be used to diagnose AD, hence we expand on the Neuroimaging Techniques.  
  MRI is one of the most widely used imaging techniques in AD diagnosis due to its ability to provide detailed structural images of the brain without radiation exposure. It can detect specific atrophies and changes in brain volume associated with AD, particularly in the medial temporal lobe and hippocampus.
-###•Medial Temporal Lobe Atrophy:  
+### •Medial Temporal Lobe Atrophy:  
  The medial temporal lobe (including the hippocampus, entorhinal cortex, and amygdala) is one of the first regions to show atrophy in AD. MRI is sensitive to these changes and can identify patients with early-stage AD.  
  Quantitative Imaging: Volumetric techniques measure hippocampal and overall brain atrophy. Studies have shown that MRI-based measures of hippocampal volume have a high sensitivity and specificity (greater than 85%) for diagnosing AD. Volumetric and 3D mapping of the hippocampus are emerging as important tools for identifying patients with mild cognitive impairment (MCI) who are at risk of progressing to AD.
-###•Cortical Thickness Measurement:  
+### •Cortical Thickness Measurement:  
  A reduction in cortical thickness in specific brain areas such as the posterior cingulate cortex and parietal cortex is associated with AD. Measuring cortical thinning is an emerging diagnostic tool that could complement other imaging methods in AD diagnosis.  
-###•Longitudinal Imaging:  
+### •Longitudinal Imaging:  
  MRI is also used in longitudinal studies to monitor brain atrophy over time, helping to distinguish AD from normal aging. Serial scans can reveal the progressive loss of brain tissue, which is qualitatively and quantitatively different from normal aging.  
 
  From the GPT analysis I acknowledged all the different methods of diagnosing AD, and chose to use 3D mapping techniques to continue on the project. In the next sprint we plan to check for existing databases that we can access and investigate further in how the data can be used, with existing studies in the data collected.   
