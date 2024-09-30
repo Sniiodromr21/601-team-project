@@ -18,31 +18,31 @@ New Perspectives of Alzheimer Disease Diagnosis – the Most Popular and Future 
 
 ## Literature review of the topic with references 
  Diagnostic Approaches to Alzheimer’s Disease (AD):  
-1.Clinical Diagnosis:  
+### 1.Clinical Diagnosis:  
  Alzheimer’s disease is typically diagnosed based on clinical assessments, patient history, and cognitive testing. The NINCDS-ADRDA criteria are commonly used, achieving more than 80% accuracy in distinguishing Alzheimer’s from non-demented individuals, but less accurate in differentiating AD from other types of dementia.
-2.Neuroimaging Techniques:  
+### 2.Neuroimaging Techniques:  
  CT and MRI: These are used to rule out other conditions that may cause cognitive impairment, such as tumors or vascular issues. MRI is especially used for detecting medial temporal lobe atrophy.  
  Volumetric Imaging & 3D Mapping: Emerging techniques like volumetric imaging and hippocampal mapping are showing promise for early diagnosis, especially to track disease progression.  
-3.Positron Emission Tomography (PET):  
+### 3.Positron Emission Tomography (PET):  
  PET with fluorodeoxyglucose (FDG-PET) has shown sensitivity and specificity for detecting AD, especially by identifying reduced glucose metabolism in temporal and parietal regions. PET can also be used with Pittsburgh compound B (PIB) to visualize amyloid plaques.  
-4.Single-Photon Emission Computed Tomography (SPECT):  
+### 4.Single-Photon Emission Computed Tomography (SPECT):  
  SPECT can measure blood flow and has been used to differentiate Alzheimer’s from other dementias like frontotemporal dementia. However, it shows lower accuracy compared to PET imaging.  
-5.Cerebrospinal Fluid (CSF) Biomarkers:  
+### 5.Cerebrospinal Fluid (CSF) Biomarkers:  
  CSF biomarkers such as low Aβ1-42 and high total tau or hyperphosphorylated tau are indicative of AD and can differentiate AD from other dementias with good sensitivity and specificity. Combination of these biomarkers in panels is improving diagnostic accuracy, especially for early diagnosis.  
-6.Genetic Testing:  
+### 6.Genetic Testing:  
  APOE ε4 allele is a strong risk factor for Alzheimer’s and is associated with increased amyloid burden. Other genetic mutations such as PSEN1, PSEN2, and APP have been implicated, though they are rare in late-onset Alzheimer’s.  
-7.Other Emerging Biomarkers:  
+### 7.Other Emerging Biomarkers:  
  Various novel biomarkers, including those related to inflammation and oxidative stress, are under investigation to further improve the diagnostic process.  
 
 
  In this project we use database systems with the help of AI in imaging, hence our main focus is to learn a level of expert knowledge in how different imaging techniques can be used to diagnose AD, hence we expand on the Neuroimaging Techniques.  
  MRI is one of the most widely used imaging techniques in AD diagnosis due to its ability to provide detailed structural images of the brain without radiation exposure. It can detect specific atrophies and changes in brain volume associated with AD, particularly in the medial temporal lobe and hippocampus.
-•Medial Temporal Lobe Atrophy:  
+###•Medial Temporal Lobe Atrophy:  
  The medial temporal lobe (including the hippocampus, entorhinal cortex, and amygdala) is one of the first regions to show atrophy in AD. MRI is sensitive to these changes and can identify patients with early-stage AD.  
  Quantitative Imaging: Volumetric techniques measure hippocampal and overall brain atrophy. Studies have shown that MRI-based measures of hippocampal volume have a high sensitivity and specificity (greater than 85%) for diagnosing AD. Volumetric and 3D mapping of the hippocampus are emerging as important tools for identifying patients with mild cognitive impairment (MCI) who are at risk of progressing to AD.
-•Cortical Thickness Measurement:  
+###•Cortical Thickness Measurement:  
  A reduction in cortical thickness in specific brain areas such as the posterior cingulate cortex and parietal cortex is associated with AD. Measuring cortical thinning is an emerging diagnostic tool that could complement other imaging methods in AD diagnosis.  
-•Longitudinal Imaging:  
+###•Longitudinal Imaging:  
  MRI is also used in longitudinal studies to monitor brain atrophy over time, helping to distinguish AD from normal aging. Serial scans can reveal the progressive loss of brain tissue, which is qualitatively and quantitatively different from normal aging.  
 
  From the GPT analysis I acknowledged all the different methods of diagnosing AD, and chose to use 3D mapping techniques to continue on the project. In the next sprint we plan to check for existing databases that we can access and investigate further in how the data can be used, with existing studies in the data collected.   
