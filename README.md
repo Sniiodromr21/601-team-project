@@ -1,4 +1,4 @@
-# 601-project
+# 601-team project
 ## Definition of the project
 The mission of our project is to utilize graph databases and graph neural networks (GNN) to develop an easy-to-use diagnostic tool for Alzheimer's disease. By integrating the medical data obtainable, we aim to offer healthcare professionals deeper insights into disease progression, early diagnosis, and personalized treatment strategies. Our objective is to enhance patient outcomes and support the global battle against Alzheimer's disease through advanced technology.
 
