@@ -98,5 +98,13 @@ https://www.sciencedirect.com/science/article/pii/S0140673610613499
 arXiv preprint arXiv:2101.02870. 
 https://ar5iv.labs.arxiv.org/html/2101.02870
 
+Sprint 2 update:
+
+Job completed: 
+    Successful discovery of a new database to research and develop, request to new databases.
+    Research and decided the direction of study, MRI neuroimaging.
+Work to do: 
+    Research on the databases, find out what the parameters do, and contact professors that know about the content.
+
 
   
