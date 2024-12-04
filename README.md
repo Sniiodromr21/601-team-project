@@ -1,6 +1,6 @@
 # 601-team project
 ## Definition of the project
-The mission of our project is to utilize graph databases and graph neural networks (GNN) to develop an easy-to-use diagnostic tool for Alzheimer's disease. By integrating the medical data obtainable, we aim to offer healthcare professionals deeper insights into disease progression, early diagnosis, and personalized treatment strategies. Our objective is to enhance patient outcomes and support the global battle against Alzheimer's disease through advanced technology.
+The mission of our project is to utilize  AI models like graph neural networks and convolutional neural networks to develop an easy-to-use diagnostic tool for Alzheimer's disease. By integrating the medical data obtainable, we aim to offer healthcare professionals deeper insights into disease progression, early diagnosis, and personalized treatment strategies. Our objective is to enhance patient outcomes and support the global battle against Alzheimer's disease through advanced technology.
 
 ## User Stories
 As a family member of a potential Alzheimer’s patient, I want an easy-to-use application that allows me to perform an initial assessment at home using cognitive tests and symptom checklists, so that I can detect early signs of Alzheimer’s and seek professional medical advice if necessary.
